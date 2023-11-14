@@ -1,1588 +1,925 @@
 <!DOCTYPE html>
-
-    
-    
-    
-    
-    
-
-    
-    <html lang="ja">
-      <head>
-        <meta name="pageKey" content="d_org_guest_school_overview">
-          <meta name="linkedin:pageTag" content="noncanonical_subdomain=control">
-        <meta name="locale" content="ja_JP">
-        <meta id="config" data-app-version="2.0.1625" data-call-tree-id="AAYI+U/qvP1yw72RQsff6A==" data-multiproduct-name="organization-guest-frontend" data-service-name="organization-guest-frontend" data-browser-id="246577d9-9db5-434f-8d2b-a12a0cceeadc" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:d_org_guest_school_overview;c8yhrtlrSZiGuHihKYmseg==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-msafdf-lib="https://static.licdn.com/aero-v1/sc/h/80ndnja80f2uvg4l8sj2su82m">
-
-        <link rel="canonical" href="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/">
-          <link rel="alternate" hreflang="ja-JP" href="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/">
-          <link rel="alternate" hreflang="ja" href="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/">
-            <link rel="alternate" hreflang="x-default" href="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/">
-
-<!---->
-<!---->
-          <meta property="al:android:url" content="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/">
-          <meta property="al:android:package" content="com.linkedin.android">
-          <meta property="al:android:app_name" content="LinkedIn">
-          <meta property="al:ios:url" content="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/">
-          <meta property="al:ios:app_store_id" content="288429040">
-          <meta property="al:ios:app_name" content="LinkedIn">
-
-          <link rel="manifest" href="/homepage-guest/manifest.json" crossorigin="use-credentials">
-
-          <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
-
-        <script>
-          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
-          window.lazyloader = getDfd();
-          window.tracking = getDfd();
-          window.impressionTracking = getDfd();
-          window.ingraphTracking = getDfd();
-          window.appDetection = getDfd();
-          window.pemTracking = getDfd();
-        </script>
-
-<!---->
-        
-        
-    <title>城西大学 | LinkedIn</title>
-    <meta name="robots" content="noarchive">
-    <meta name="description" content="城西大学 | LinkedInのフォロワー数803人。われわれが、昭和40年４月に総合大学として城西大学を創設したのは、一つには、近来向上しつつある国民の進学要望に応えるためであり、二つには、国家社会のよりよき形成者としての人材の育成は、既成の大学だけでは充分でないと考えたからである。
-いうまでもなく、学問はそれ自体が目的ではなく、あくまでも人間形成の手段である。立派な人間によってのみ、立派な社会がつくられるのだから、現世のために、後世のために、国家社会の重荷にたえられる人材の教育を天職として、挙学その責に任じたいと考え、この大学を創設したのである。">
-
-    <meta property="og:title" content="城西大学 | LinkedIn">
-    <meta property="og:description" content="城西大学 | LinkedInのフォロワー数803人。われわれが、昭和40年４月に総合大学として城西大学を創設したのは、一つには、近来向上しつつある国民の進学要望に応えるためであり、二つには、国家社会のよりよき形成者としての人材の育成は、既成の大学だけでは充分でないと考えたからである。
-いうまでもなく、学問はそれ自体が目的ではなく、あくまでも人間形成の手段である。立派な人間によってのみ、立派な社会がつくられるのだから、現世のために、後世のために、国家社会の重荷にたえられる人材の教育を天職として、挙学その責に任じたいと考え、この大学を創設したのである。">
-    <meta property="og:image" content="https://media.licdn.com/dms/image/C560BAQEuV289J-HaiA/company-logo_200_200/0/1611144883117?e=2147483647&amp;v=beta&amp;t=k9xZbTO_V6aTFL7egO8DP9q9QV5Hjj1G3ftHyTn5bMc">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/">
-
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@linkedin">
-    <meta name="twitter:title" content="城西大学 | LinkedIn">
-    <meta name="twitter:description" content="城西大学 | LinkedInのフォロワー数803人。われわれが、昭和40年４月に総合大学として城西大学を創設したのは、一つには、近来向上しつつある国民の進学要望に応えるためであり、二つには、国家社会のよりよき形成者としての人材の育成は、既成の大学だけでは充分でないと考えたからである。
-いうまでもなく、学問はそれ自体が目的ではなく、あくまでも人間形成の手段である。立派な人間によってのみ、立派な社会がつくられるのだから、現世のために、後世のために、国家社会の重荷にたえられる人材の教育を天職として、挙学その責に任じたいと考え、この大学を創設したのである。">
-    <meta name="twitter:image" content="https://media.licdn.com/dms/image/C560BAQEuV289J-HaiA/company-logo_200_200/0/1611144883117?e=2147483647&amp;v=beta&amp;t=k9xZbTO_V6aTFL7egO8DP9q9QV5Hjj1G3ftHyTn5bMc">
-
-    <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/organization-guest/api/ingraphs/gauge" data-counter-metric-endpoint="/organization-guest/api/ingraphs/counter">
-  
-
-        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/c6k47zdnhgs8uktdhzbzjswbq">
-
-          
-    
-    <script type="application/ld+json">
-      {"@context":"http://schema.org","@type":"Organization","name":"城西大学","url":"https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/","address":{"type":"PostalAddress","streetAddress":"けやき台１番","addressLocality":"坂戸市","addressRegion":"埼玉県","postalCode":"〒350-0295","addressCountry":"JP"},"description":"われわれが、昭和40年４月に総合大学として城西大学を創設したのは、一つには、近来向上しつつある国民の進学要望に応えるためであり、二つには、国家社会のよりよき形成者としての人材の育成は、既成の大学だけでは充分でないと考えたからである。\nいうまでもなく、学問はそれ自体が目的ではなく、あくまでも人間形成の手段である。立派な人間によってのみ、立派な社会がつくられるのだから、現世のために、後世のために、国家社会の重荷にたえられる人材の教育を天職として、挙学その責に任じたいと考え、この大学を創設したのである。\nそのためには、大学の校地は都塵を避けた秩父山麓欅ヶ丘の高台に、富士山と上毛の山々と高麗の清流を望む広大な地域を選び新しい施設と設備を造りあげた。","numberOfEmployees":{"value":66,"@type":"QuantitativeValue"},"logo":{"contentUrl":"https://media.licdn.com/dms/image/C560BAQEuV289J-HaiA/company-logo_200_200/0/1611144883117?e=2147483647&v=beta&t=k9xZbTO_V6aTFL7egO8DP9q9QV5Hjj1G3ftHyTn5bMc","description":"城西大学","@type":"ImageObject"},"sameAs":"https://www.josai.ac.jp/"}
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="keywords" content="城西大学, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng"> <link rel="canonical" href="https://www.pngwing.com/ja/free-png-axmxp"> <title>城西大学、HD、ロゴ, png | PNGWing</title>
+<link rel="shortcut icon" href="https://assets.pngwing.com/public/css/favicon.ico">
+<link rel="stylesheet" href="https://assets.pngwing.com/public/css/base.css?20221010">
+<script data-ad-client="ca-pub-2606419576769320" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-68216682-41"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-68216682-41');
     </script>
-  
-  
-      
-<!---->      </head>
-      <body dir="ltr">
-<!----><!----><!---->
-        
-        
-    
-    
-    
-    
 
-      
-    
-    
-    
-    <code id="google-one-tap-enabled" style="display: none"><!--true--></code>
-    <form class="google-auth" action="https://www.linkedin.com/uas/login-submit" method="post">
-      <input name="loginCsrfParam" value="246577d9-9db5-434f-8d2b-a12a0cceeadc" type="hidden">
-
-        <input name="session_redirect" value="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/" type="hidden">
-
-      <input name="trk" value="organization_guest_google-one-tap-submit" type="hidden">
-<!---->      
-    <div class="loader loader--full-screen">
-      <div class="loader__container mb-2 overflow-hidden">
-        <icon class="loader__icon inline-block loader__icon--default text-color-progress-loading" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1" data-svg-class-name="loader__icon-svg--large fill-currentColor h-[60px] min-h-[60px] w-[60px] min-w-[60px]"></icon>
-      </div>
-    </div>
-  
-    </form>
-
-    <script data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki" data-module-id="google-gsi-lib"></script>
-    <code id="enableGoogleAutoSelect" style="display: none"><!--true--></code>
-    <code id="googleAuthLibraryPath" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki"--></code>
-    <code id="isLinkedInAppWebView" style="display: none"><!--false--></code>
-    <code id="isTermsAndConditionsSkipEnabledOneTap" style="display: none"><!--false--></code>
-  
-
-<!---->
-      
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-
-    <div class="contextual-sign-in-modal strong-conversion-modal" data-impression-id="organization_guest_contextual-sign-in-modal" data-cool-off-enabled data-should-show="false" data-modal="strong-conversion-modal">
-<!---->
-      
-
-    
-    <div class>
-<!---->
-      <div id="organization_guest_contextual-sign-in" class="modal modal--contextual-sign-in" data-outlet="organization_guest_contextual-sign-in">
-          <code id="modalNoDismiss" style="display: none"><!--true--></code>
-        <div class="modal__overlay flex items-center bg-color-background-scrim justify-center fixed bottom-0 left-0 right-0 top-0 opacity-0 invisible pointer-events-none z-[1000] transition-[opacity] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.17s]
-            py-4
-            ">
-          <section aria-modal="true" role="dialog" aria-labelledby="organization_guest_contextual-sign-in-modal-header" tabindex="-1" class="max-h-full modal__wrapper overflow-auto p-0 bg-color-surface max-w-[1128px] min-h-[160px] relative scale-[0.25] shadow-sm shadow-color-border-faint transition-[transform] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.33s] focus:outline-0
-              
-              w-[1128px] mamabear:w-[744px] babybear:w-[360px]
-              
-              rounded-md">
-              
-<!---->        
-            <div class="modal__main w-full ">
-              
-          <div class="contextual-sign-in-modal__screen contextual-sign-in-modal__context-screen flex flex-col my-4 mx-3">
-              
-      <img class="inline-block relative
-          
-          w-16 h-16
-           contextual-sign-in-modal__img m-auto" data-delayed-url="https://media.licdn.com/dms/image/C560BAQEuV289J-HaiA/company-logo_200_200/0/1611144883117?e=2147483647&amp;v=beta&amp;t=k9xZbTO_V6aTFL7egO8DP9q9QV5Hjj1G3ftHyTn5bMc" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw" alt>
-  
-            <h2 class="contextual-sign-in-modal__context-screen-title font-sans text-xl text-color-text my-2 mx-4 text-center" id="organization_guest_contextual-sign-in-modal-header">
-              サインインして城西大学の知り合いを見つけましょう
-            </h2>
-<!----><!---->            <div class="contextual-sign-in-modal__btn-container m-auto w-[320px] babybear:w-full">
-<!---->              
-    
-    
-    
-    
-
-    <div class="sign-in-modal" data-impression-id="organization_guest_contextual-sign-in-modal_sign-in-modal">
-        <button class="sign-in-modal__outlet-btn cursor-pointer btn-md btn-primary" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_outlet-button" data-modal="organization_guest_contextual-sign-in_sign-in-modal">
-            サインイン
-        </button>
-
-      
-
-    
-    <div class>
-<!---->
-      <div id="organization_guest_contextual-sign-in_sign-in-modal" class="modal modal--sign-in" data-outlet="organization_guest_contextual-sign-in_sign-in-modal">
-<!---->        <div class="modal__overlay flex items-center bg-color-background-scrim justify-center fixed bottom-0 left-0 right-0 top-0 opacity-0 invisible pointer-events-none z-[1000] transition-[opacity] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.17s]
-            py-4
-            ">
-          <section aria-modal="true" role="dialog" aria-labelledby="organization_guest_contextual-sign-in_sign-in-modal-modal-header" tabindex="-1" class="max-h-full modal__wrapper overflow-auto p-0 bg-color-surface max-w-[1128px] min-h-[160px] relative scale-[0.25] shadow-sm shadow-color-border-faint transition-[transform] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.33s] focus:outline-0
-              
-              w-[1128px] mamabear:w-[744px] babybear:w-[360px]
-              
-              rounded-md">
-              
-            <button class="modal__dismiss btn-tertiary h-[40px] w-[40px] p-0 rounded-full indent-0 sign-in-modal__dismiss absolute right-0 cursor-pointer m-[20px]" aria-label="閉じる" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_dismiss">
-              <icon class="sign-in-modal__dismiss-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/gs508lg3t2o81tq7pmcgn6m2"></icon>
-            </button>
-        
-            <div class="modal__main w-full ">
-              
-          <div class="sign-in-modal__screen flex flex-col py-4 px-3 w-[513px] babybear:w-full">
-            <h2 class="sign-in-modal__header font-sans text-display-md text-color-text">
-                ようこそ
-            </h2>
-            
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    <code id="i18n_sign_in_form_show_text" style="display: none"><!--"表示"--></code>
-    <code id="i18n_sign_in_form_show_label" style="display: none"><!--"LinkedInのパスワードを表示します"--></code>
-    <code id="i18n_sign_in_form_hide_text" style="display: none"><!--"非表示"--></code>
-    <code id="i18n_sign_in_form_hide_label" style="display: none"><!--"LinkedInのパスワードを非表示にします"--></code>
-
-    
-    <code id="i18n_username_error_empty" style="display: none"><!--"メールアドレスまたは携帯番号を入力してください"--></code>
-    
-    <code id="i18n_username_error_too_long" style="display: none"><!--"メールまたは携帯番号には、3～128文字まで指定できます。"--></code>
-    <code id="i18n_username_error_too_short" style="display: none"><!--"メールまたは携帯番号には、3～128文字まで指定できます。"--></code>
-
-    
-    <code id="i18n_password_error_empty" style="display: none"><!--"パスワードを入力してください"--></code>
-    
-    <code id="i18n_password_error_too_short" style="display: none"><!--"入力するパスワードには少なくとも6文字必要です。"--></code>
-    
-    <code id="i18n_password_error_too_long" style="display: none"><!--"パスワードには400文字まで指定できます。"--></code>
-
-    <form data-id="sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate class="mt-1.5 mb-2">
-      <input name="loginCsrfParam" value="246577d9-9db5-434f-8d2b-a12a0cceeadc" type="hidden">
-
-      <div class="flex flex-col">
-        
-    <div class="mt-1.5" data-js-module-id="guest-input">
-      <div class="flex flex-col">
-        <label class="input-label mb-1" for="organization_guest_contextual-sign-in_sign-in-modal_session_key">
-          メールまたは携帯番号
-        </label>
-        <div class="text-input flex">
-          <input class="text-color-text font-sans text-md outline-0 bg-color-transparent grow" autocomplete="username" id="organization_guest_contextual-sign-in_sign-in-modal_session_key" name="session_key" required type="text">
-          
-        </div>
-      </div>
-
-      <p class="input-helper mt-1.5" for="organization_guest_contextual-sign-in_sign-in-modal_session_key" role="alert" data-js-module-id="guest-input__message"></p>
-    </div>
-  
-
-        
-    <div class="mt-1.5" data-js-module-id="guest-input">
-      <div class="flex flex-col">
-        <label class="input-label mb-1" for="organization_guest_contextual-sign-in_sign-in-modal_session_password">
-          パスワード
-        </label>
-        <div class="text-input flex">
-          <input class="text-color-text font-sans text-md outline-0 bg-color-transparent grow" autocomplete="current-password" id="organization_guest_contextual-sign-in_sign-in-modal_session_password" name="session_password" required type="password">
-          
-            <button aria-live="assertive" data-id="sign-in-form__password-visibility-toggle" class="font-sans text-md font-bold text-color-action z-10 ml-[12px] hover:cursor-pointer" aria-label="LinkedInのパスワードを表示します" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_sign-in-password-visibility-toggle-btn" type="button">表示</button>
-          
-        </div>
-      </div>
-
-      <p class="input-helper mt-1.5" for="organization_guest_contextual-sign-in_sign-in-modal_session_password" role="alert" data-js-module-id="guest-input__message"></p>
-    </div>
-  
-
-        <input name="session_redirect" value="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/" type="hidden">
-
-<!---->      </div>
-
-      <div data-id="sign-in-form__footer" class="flex justify-between
-          sign-in-form__footer--full-width">
-        <a data-id="sign-in-form__forgot-password" class="font-sans text-md font-bold link leading-regular
-            sign-in-form__forgot-password--full-width" href="https://www.linkedin.com/uas/request-password-reset?trk=organization_guest_contextual-sign-in-modal_sign-in-modal_forgot_password" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_forgot_password" data-tracking-will-navigate>パスワードをお忘れの場合</a>
-
-<!---->
-        <input name="trk" value="organization_guest_contextual-sign-in-modal_sign-in-modal_sign-in-submit" type="hidden">
-        <button class="btn-md btn-primary flex-shrink-0 cursor-pointer
-            sign-in-form__submit-btn--full-width w-full max-w-[400px] mx-auto" data-id="sign-in-form__submit-btn" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_sign-in-submit-btn" data-tracking-litms type="submit">
-          サインイン
-        </button>
-      </div>
-        <div class="sign-in-form__divider left-right-divider pt-2 pb-3">
-          <p class="sign-in-form__divider-text font-sans text-sm text-color-text px-2">
-            または
-          </p>
-        </div>
-    </form>
-      <div class="w-full max-w-[400px] mx-auto">
-        
-    <div class="google-auth-button">
-        
-    
-<!---->  
-      <div class="google-auth-button__placeholder"></div>
-    </div>
-  
-      </div>
-<!---->  
-              <p class="sign-in-modal__join-now m-auto font-sans text-md text-color-text
-                  mt-2">
-                初めてご利用ですか? <a href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fschool%2F%25E5%259F%258E%25E8%25A5%25BF%25E5%25A4%25A7%25E5%25AD%25A6%2F&_l=ja&trk=organization_guest_contextual-sign-in-modal_sign-in-modal_join-link" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_join-link" data-tracking-will-navigate="true" class="sign-in-modal__join-link">今すぐ登録</a>
-              </p>
-          </div>
-        
-            </div>
-
-<!---->          </section>
-        </div>
-      </div>
-    </div>
-  
-    </div>
-  
-
-              <div class="contextual-sign-in-modal__divider left-right-divider">
-                <p class="contextual-sign-in-modal__divider-text font-sans text-sm text-color-text px-2">
-                  または
-                </p>
-              </div>
-                <div class="w-full max-w-[400px] mx-auto">
-                  
-    <div class="google-auth-button">
-        
-    
-<!---->  
-      <div class="google-auth-button__placeholder"></div>
-    </div>
-  
-                </div>
-            </div>
-              <p class="contextual-sign-in-modal__join-now m-auto font-sans text-md text-color-text">
-                初めてご利用ですか? <a href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fschool%2F%25E5%259F%258E%25E8%25A5%25BF%25E5%25A4%25A7%25E5%25AD%25A6%2F&_l=ja&trk=organization_guest_contextual-sign-in-modal_join-link" data-tracking-control-name="organization_guest_contextual-sign-in-modal_join-link" data-tracking-will-navigate="true" class="contextual-sign-in-modal__join-link">今すぐ登録</a>
-              </p>
-          </div>
-        
-            </div>
-
-<!---->          </section>
-        </div>
-      </div>
-    </div>
-  
-    </div>
-  
-
-      
-    
-    
-    
-    
-    
-
-        
-
-    
-
-      <div class="cta-modal overflow-hidden container-raised z-10 fixed bottom-3 right-3 min-h-[56px] p-2 babybear:hidden windows-app-upsell windows-app-upsell--msft flex flex-col p-2 w-[359px] !bg-[#F1F8FA] opacity-90 backdrop-blur-[2px] z-1" data-impression-id="organization_guest_windows-app-upsell_cta-modal" role="dialog" aria-labelledby="cta-modal-header" aria-describedby="cta-modal-subheader">
-          
-
-          
-
-        
-          <div class="windows-app-upsell__linkedin-title-container pt-[6px] mb-1.5 flex align-center">
-            <icon class="windows-app-upsell__linkedin-bug-icon block w-[21px] h-[21px]" data-svg-class-name="windows-app-upsell__linkedin-bug-icon-svg w-[21px] h-[21px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/dkgve44sisif1wgwp8ozaxu1x"></icon>
-            <p class="windows-app-upsell__linkedin-title uppercase text-xs text-color-text-secondary leading-[21px] ml-1">
-              LinkedIn
-            </p>
-          </div>
-          <p class="windows-app-upsell__title font-sans text-md text-color-text-accent-4-hover font-semibold leading-regular mb-1">
-            LinkedInのモバイルアプリをご利用ください
-          </p>
-          <p class="windows-app-upsell__body font-sans text-sm text-color-text-secondary leading-regular">
-            アプリをお持ちではありませんか? Microsoft Storeで入手できます。
-          </p>
-          <a class="windows-app-upsell__cta btn-sm btn-secondary-emphasis mt-2 mb-[6px] w-fit" href="ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&amp;mode=mini&amp;cid=guest_desktop_upsell_org2" data-tracking-control-name="organization_guest_windows-app-upsell_cta" data-tracking-will-navigate>
-            アプリを開く
-          </a>
-        
-
-        <button class="cta-modal__dismiss-btn absolute h-4 w-4 p-1 top-2 right-2 hover:cursor-pointer focus:outline focus:outline-2 focus:outline-color-action" data-tracking-control-name="organization_guest_windows-app-upsell_dismiss" aria-label="閉じる">
-          <icon class="cta-modal__dismiss-icon block h-2 w-2 onload" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/582r9vsvwmiwa75ujfqps3ivc"></icon>
-        </button>
-      </div>
-  
-  
-  
-        
-    
-      <code id="isClsFixActive" style="display: none"><!--true--></code>
-      
-    
-
-    <a href="#main-content" class="skip-link btn-md btn-primary absolute z-11 -top-[100vh] focus:top-0">
-      メインコンテンツにスキップ
-    </a>
-  
-    <header class="header base-detail-page__header px-mobile-container-padding bg-color-background-container global-alert-offset">
-      
-        
-
-    
-    
-    
-    
-
-    <nav class="nav pt-1.5 pb-2 flex items-center justify-between relative flex-nowrap mamabear:flex-wrap mamabear:gap-y-1 babybear:flex-wrap babybear:py-1.5
-        " aria-label="プライマリ">
-
-      <a href="/?trk=organization_guest_nav-header-logo" class="nav__logo-link link-no-visited-state z-1 mr-auto babybear:z-0 babybear:mr-0 babybear:flex-1 hover:no-underline focus:no-underline active:no-underline" data-tracking-control-name="organization_guest_nav-header-logo" data-tracking-will-navigate>
-          
-              
-    
-    <span class="sr-only">LinkedIn</span>
-<!---->      <icon class="block text-color-brand w-[84px] h-[21px] papabear:w-[135px] papabear:h-[34px]
-          " data-test-id="nav-logo" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb"></icon>
-  
-          
-      </a>
-
-<!---->
-        
-    
-    
-    
-    
-    
-    
-    <ul class="top-nav-menu flex items-center mr-0.5 babybear:hidden mamabear:hidden
-        
-         nav__menu order-3">
-        <li class>
-          
-    <a href="https://www.linkedin.com/pulse/topics/home/?trk=organization_guest_guest_nav_menu_articles" data-tracking-control-name="organization_guest_guest_nav_menu_articles" data-tracking-will-navigate class="top-nav-link flex justify-center items-center h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
-        w-[64px]
-        flex-col mx-1
-        text-color-text-secondary visited:text-color-text-secondary">
-      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr">
-      </icon>
-      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
-          font-regular">
-        記事
-      </span>
-    </a>
-  
-        </li>
-        <li class>
-          
-    <a href="https://www.linkedin.com/pub/dir/+/+?trk=organization_guest_guest_nav_menu_people" data-tracking-control-name="organization_guest_guest_nav_menu_people" data-tracking-will-navigate class="top-nav-link flex justify-center items-center h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
-        w-[64px]
-        flex-col mx-1
-        text-color-text-secondary visited:text-color-text-secondary">
-      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0">
-      </icon>
-      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
-          font-regular">
-        ユーザー
-      </span>
-    </a>
-  
-        </li>
-        <li class>
-          
-    <a href="https://www.linkedin.com/learning/search?trk=organization_guest_guest_nav_menu_learning" data-tracking-control-name="organization_guest_guest_nav_menu_learning" data-tracking-will-navigate class="top-nav-link flex justify-center items-center h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
-        w-[64px]
-        flex-col mx-1
-        text-color-text-secondary visited:text-color-text-secondary">
-      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u">
-      </icon>
-      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
-          font-regular">
-        ラーニング
-      </span>
-    </a>
-  
-        </li>
-        <li class>
-          
-    <a href="https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs" data-tracking-control-name="organization_guest_guest_nav_menu_jobs" data-tracking-will-navigate class="top-nav-link flex justify-center items-center h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
-        w-[64px]
-        flex-col mx-1
-        top-nav-link--selected text-color-text visited:text-color-text border-solid border-b-2 border-color-text" aria-current="page">
-      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki">
-      </icon>
-      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
-          font-regular">
-        求人
-      </span>
-    </a>
-  
-        </li>
-        <li class>
-          
-    <a href="ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&amp;mode=mini&amp;cid=guest_nav_upsell&amp;trk=organization_guest_guest_nav_menu_windows" data-tracking-control-name="organization_guest_guest_nav_menu_windows" data-tracking-will-navigate class="top-nav-link flex justify-center items-center h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
-        w-[96px] px-1 border-solid border-x-1 border-color-border-faint
-        flex-col mx-1
-        text-color-text-secondary visited:text-color-text-secondary">
-      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/admayac2rnonsqhz9v3rzwcyu">
-      </icon>
-      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
-          font-regular">
-        ダウンロード
-      </span>
-    </a>
-  
-        </li>
-    </ul>
-  
-
-      <div class="nav__cta-container order-3 flex gap-x-1 justify-end min-w-[100px] flex-nowrap flex-shrink-0 babybear:flex-wrap flex-2">
-        
-    
-    <a class="nav__button-tertiary btn-md btn-tertiary" href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fschool%2F%25E5%259F%258E%25E8%25A5%25BF%25E5%25A4%25A7%25E5%25AD%25A6%2F&amp;_l=ja&amp;trk=organization_guest_nav-header-join" data-tracking-control-name="organization_guest_nav-header-join" data-test-live-nav-primary-cta data-tracking-will-navigate>
-      メンバー登録
-    </a>
-
-
-        
-  
-  
-
-      
-      <a class="nav__button-secondary btn-md btn-secondary-emphasis" href="https://www.linkedin.com/login/ja?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fschool%2F%25E5%259F%258E%25E8%25A5%25BF%25E5%25A4%25A7%25E5%25AD%25A6%2F&amp;fromSignIn=true&amp;trk=organization_guest_nav-header-signin" data-tracking-control-name="organization_guest_nav-header-signin" data-tracking-will-navigate>
-          サインイン
-      </a>
-
-
-<!---->      </div>
-
-<!---->
-<!---->    </nav>
-  
-      
-    </header>
-
-    
-<!---->      
-
-<!---->
-    <main class="main papabear:flex papabear:w-content-max-w papabear:mx-auto papabear:pt-desktop-content-top-margin mamabear:pt-desktop-content-top-margin
-        " id="main-content" role="main">
-      <section class="core-rail mx-auto papabear:w-core-rail-width mamabear:max-w-[790px] babybear:max-w-[790px]">
-        
-        
-            
-    
-    
-    
-    
-    
-
-    
-    <section class="top-card-layout container-lined overflow-hidden babybear:rounded-[0px]">
-        
-    <figure class="cover-img min-h-[87px] papbear:min-h-[100px] rounded-t-[2px] babybear:rounded-[0px] -z-1">
-        <code id="cover-image" style="display: none"><!--{"width":1920,"x":0,"y":197,"height":325}--></code>
-      <div class="cover-img__image-frame relative w-full overflow-hidden pb-[calc((134/782)*100%)]">
-        <div class="cover-img__image-position absolute top-0 right-0 bottom-0 left-0
-            ">
-            <img class="cover-img__image relative w-full h-full object-cover" src="https://media.licdn.com/dms/image/C561BAQFLguIlgngD0Q/company-background_10000/0/1611145304310/_cover?e=1699322400&amp;v=beta&amp;t=UxX3u3liQQpM62RL9nErKwqtIsUeEyeGG-tntty8Oyo" fetchpriority="auto" data-embed-id="cover-image" alt>
-        </div>
-      </div>
-<!---->    </figure>
-  
-
-      <div class="top-card-layout__card relative p-2 papabear:p-details-container-padding">
-            <div class="top-card-layout__entity-image-container flex">
-              
-      <img class="inline-block relative
-          
-          w-16 h-16
-           top-card-layout__entity-image shadow-color-shadow shadow-[0_4px_12px] border-2 border-solid border-color-surface mt-[-70px] mb-[14px] papabear:border-4 papabear:mt-[-100px] papabear:mb-[18px]" data-delayed-url="https://media.licdn.com/dms/image/C560BAQEuV289J-HaiA/company-logo_200_200/0/1611144883117?e=2147483647&amp;v=beta&amp;t=k9xZbTO_V6aTFL7egO8DP9q9QV5Hjj1G3ftHyTn5bMc" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw" alt="城西大学">
-  
-            </div>
-
-          <div class="top-card-layout__entity-info-container flex flex-wrap papabear:flex-nowrap">
-            <div class="top-card-layout__entity-info flex-grow flex-shrink-0 basis-0 babybear:flex-none babybear:w-full babybear:flex-none babybear:w-full">
-                  <h1 class="top-card-layout__title font-sans text-lg papabear:text-xl font-bold leading-open text-color-text mb-0">
-                    城西大学
-                    
-                  </h1>
-                <h2 class="top-card-layout__headline break-words font-sans text-md leading-open text-color-text">
-                    高等教育
-                </h2>
-
-                <h3 class="top-card-layout__first-subline font-sans text-md leading-open text-color-text-low-emphasis">
-                  
-        坂戸市、埼玉県<span class="before:middot"></span>803人のフォロワー
-      
-                </h3>
-
-<!---->
-              <div class="top-card-layout__cta-container flex flex-wrap mt-0.5 papabear:mt-0 ml-[-12px]">
-                    
-          <a class="top-card-layout__cta mt-2 ml-1.5 h-auto babybear:flex-auto top-card-layout__cta--primary btn-md btn-primary" href="https://www.linkedin.com/login/ja?session_redirect=https%3A%2F%2Fjp%2Elinkedin%2Ecom%2Fschool%2F%25E5%259F%258E%25E8%25A5%25BF%25E5%25A4%25A7%25E5%25AD%25A6%2Fpeople&amp;fromSignIn=true&amp;trk=top-card_top-card-primary-button-top-card-primary-cta" data-tracking-control-name="top-card_top-card-primary-button-top-card-primary-cta" data-tracking-will-navigate>
-            出身メンバーを表示
-          </a>
-              
-
-                    
-          <a class="top-card-layout__cta mt-2 ml-1.5 h-auto babybear:flex-auto top-card-layout__cta--secondary btn-md btn-secondary" href="https://www.linkedin.com/login/ja?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fschool%2F%25E5%259F%258E%25E8%25A5%25BF%25E5%25A4%25A7%25E5%25AD%25A6%2F&amp;fromSignIn=true&amp;trk=top-card_top-card-secondary-button-top-card-secondary-cta" data-tracking-control-name="top-card_top-card-secondary-button-top-card-secondary-cta" data-tracking-will-navigate>
-            フォローする
-          </a>
-      
-              </div>
-            </div>
-
-                <div class="top-card-layout__entity-info flex-grow flex-shrink-0 basis-0 babybear:flex-none babybear:w-full
-                    top-card-layout__entity-info--right-column ml-details-container-padding max-w-[288px] babybear:my-2 babybear:ml-0">
-                  
-        
-  
-  
-  
-
-  <ul>
-      <li class="papabear:mb-1.5" data-test-id="view-all-open-jobs-cta">
-        
-    <div class="face-pile flex">
-      <div class="face-pile__images-container self-start flex-shrink-0 mr-1 leading-[1]">
-          
-      <img class="inline-block relative
-          
-          w-4 h-4
-           face-pile__image border-1 border-solid border-color-transparent -ml-2 first:ml-0" data-delayed-url="https://media.licdn.com/dms/image/C560BAQEuV289J-HaiA/company-logo_200_200/0/1611144883117?e=2147483647&amp;v=beta&amp;t=k9xZbTO_V6aTFL7egO8DP9q9QV5Hjj1G3ftHyTn5bMc" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw" alt>
-  
-      </div>
-          <a class="face-pile__cta self-center link-no-visited-state" href="https://www.linkedin.com/jobs/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6-jobs-worldwide?f_C=15094499&amp;trk=org-jobs_cta_face-pile-cta" data-tracking-control-name="org-jobs_cta_face-pile-cta" data-tracking-will-navigate>
-            募集中の求人をすべて表示
-          </a>
-    </div>
-  
-      </li>
-
-      <li class="papabear:mb-1.5">
-        
-    <div class="face-pile flex">
-      <div class="face-pile__images-container self-start flex-shrink-0 mr-1 leading-[1]">
-          
-      <img class="inline-block relative
-          rounded-[50%]
-          w-4 h-4
-           face-pile__image border-1 border-solid border-color-transparent -ml-2 first:ml-0" data-delayed-url="https://media.licdn.com/dms/image/C4E03AQEkE5_qgiQPoA/profile-displayphoto-shrink_100_100/0/1516176277518?e=2147483647&amp;v=beta&amp;t=9QDCMAwJfKsW5Vj_Y6wOPZtBXowWDH05IAKh9gRYxEU" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt>
-  
-          
-      <img class="inline-block relative
-          rounded-[50%]
-          w-4 h-4
-           face-pile__image border-1 border-solid border-color-transparent -ml-2 first:ml-0" data-delayed-url="https://media.licdn.com/dms/image/C4D03AQGUhpgKJLUrXw/profile-displayphoto-shrink_100_100/0/1516801949292?e=2147483647&amp;v=beta&amp;t=Dnmi8Wt_ouVXHpOblnaZIBNa0dGK4hCBKj3-bsMwtJw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt>
-  
-          
-      <img class="inline-block relative
-          rounded-[50%]
-          w-4 h-4
-           face-pile__image border-1 border-solid border-color-transparent -ml-2 first:ml-0" data-delayed-url="https://media.licdn.com/dms/image/D5603AQHTTLtKU223jQ/profile-displayphoto-shrink_100_100/0/1692846801704?e=2147483647&amp;v=beta&amp;t=RQuB6uzwh7dqk69Kwa0JTHwXNeP3QkN7hdn4daZyRZ8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt>
-  
-      </div>
-          <a class="face-pile__cta self-center link-no-visited-state" href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D%255B15094499%255D&amp;_l=ja&amp;trk=org-employees_cta_face-pile-cta" data-tracking-control-name="org-employees_cta_face-pile-cta" data-tracking-will-navigate>
-            66人すべての社員を表示
-          </a>
-    </div>
-  
-      </li>
-
-<!---->  </ul>
-
-      
-                </div>
-          </div>
-
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      <div class="ellipsis-menu absolute right-0 top-0 top-card-layout__ellipsis-menu mr-1 papabear:mt-0.5 papabear:mr-2">
-        
-
-    
-
-    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
-          
-            <button class="ellipsis-menu__trigger
-                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
-                !py-[6px] !px-1 flex items-center rounded-[50%]
-                
-                " aria-expanded="false" aria-label="メニューを開く" data-tracking-control-name="top-card_ellipsis-menu-trigger">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
-            </button>
-          
-
-        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
-          
-              
-
-                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex">
-                  
-
-    
-    
-
-    
-
-    
-
-    <a href="https://www.linkedin.com/uas/login?fromSignIn=true&amp;session_redirect=https%3A%2F%2Fjp.linkedin.com%2Fschool%2F%25E5%259F%258E%25E8%25A5%25BF%25E5%25A4%25A7%25E5%25AD%25A6%2F&amp;trk=top-card_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=SCHOOL&amp;_f=guest-reporting" data-tracking-control-name="top-card_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="SCHOOL" data-semaphore-content-urn="urn:li:organization:15094499" data-semaphore-tracking-prefix="top-card_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]">
-<!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
-                      この学校を報告する
-                    
-    </a>
-
-<!---->  
-                </li>
-<!---->          
-        </ul>
-
-<!---->    </div>
-  
-
-      </div>
-  
-
-<!---->      </div>
-    </section>
-  
-  
-          
-      
-
-        <div class="details mx-details-container-padding">
-          
-        
-            
-    
-
-      
-    
-
-    <nav aria-label="セカンダリー" class="tabs mt-3 babybear:mt-0.5" data-test-id="nav-tabs">
-      <ul class="tabs__list">
-        
-          
-    
-    
-    
-    
-
-    
-    <li class="tab flex ml-3 first-of-type:ml-0">
-      <a class="tab__link tab-md hover:no-underline hover:visited:text-color-label hover:focus:text-color-label outline-offset-[-1px] visited:text-color-label
-          tab-selected" aria-current="true" href="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/?trk=nav_type_overview" data-tracking-control-name="nav_type_overview" data-tracking-will-navigate>
-          
-          概要
-      </a>
-    </li>
-  
-  
-            
-    
-    
-    
-    
-
-    
-    <li class="tab flex ml-3 first-of-type:ml-0">
-      <a class="tab__link tab-md hover:no-underline hover:visited:text-color-label hover:focus:text-color-label outline-offset-[-1px] visited:text-color-label
-          " aria-current="false" href="https://jp.linkedin.com/school/%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6/people?trk=nav_type_people" data-tracking-control-name="nav_type_people" data-tracking-will-navigate>
-          
-          同窓生
-      </a>
-    </li>
-  
-  
-<!----><!---->        
-      </ul>
-    </nav>
-  
-  
-            
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      
-    <section class="core-section-container my-3 core-section-container--with-border border-b-1 border-solid border-color-border-faint m-0 py-3 text-color-text" data-test-id="about-us">
-<!---->
-          <h2 class="core-section-container__title section-title">
-            概要
-          </h2>
-
-<!---->
-      <div class="core-section-container__content break-words">
-        
-
-          <p class="break-words whitespace-pre-wrap text-color-text" data-test-id="about-us__description">われわれが、昭和40年４月に総合大学として城西大学を創設したのは、一つには、近来向上しつつある国民の進学要望に応えるためであり、二つには、国家社会のよりよき形成者としての人材の育成は、既成の大学だけでは充分でないと考えたからである。
-いうまでもなく、学問はそれ自体が目的ではなく、あくまでも人間形成の手段である。立派な人間によってのみ、立派な社会がつくられるのだから、現世のために、後世のために、国家社会の重荷にたえられる人材の教育を天職として、挙学その責に任じたいと考え、この大学を創設したのである。
-そのためには、大学の校地は都塵を避けた秩父山麓欅ヶ丘の高台に、富士山と上毛の山々と高麗の清流を望む広大な地域を選び新しい施設と設備を造りあげた。</p>
-
-          <dl class="mt-6">
-              
-    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__website">
-      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
-          ウェブサイト
-      </dt>
-      <dd class="font-sans text-md text-color-text break-words overflow-hidden">
-        
-                  
-    <a class="link-no-visited-state hover:no-underline" data-tracking-control-name="about_website" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ejosai%2Eac%2Ejp%2F&amp;urlhash=9lqc&amp;trk=about_website" target="_blank" rel="noopener" data-tracking-will-navigate aria-describedby="websiteLinkDescription">
-      https://www.josai.ac.jp/
-      <icon class="align-middle" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/49229g4q0jsla5l1xojq1wob9" aria-hidden="true"></icon>
-    </a>
-  
-                  <p class="hidden" id="websiteLinkDescription">城西大学の外部リンク</p>
-                
-      </dd>
-    </div>
-  
-              
-    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__industry">
-      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
-          業種
-      </dt>
-      <dd class="font-sans text-md text-color-text break-words overflow-hidden">
-        
-                  高等教育
-                
-      </dd>
-    </div>
-  
-              
-    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__size">
-      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
-          会社規模
-      </dt>
-      <dd class="font-sans text-md text-color-text break-words overflow-hidden">
-        
-                  
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-        社員 10,001名以上
-  
-
-                
-      </dd>
-    </div>
-  
-              
-    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__headquarters">
-      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
-          本社
-      </dt>
-      <dd class="font-sans text-md text-color-text break-words overflow-hidden">
-        
-                    坂戸市、埼玉県
-                
-      </dd>
-    </div>
-  
-              
-    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__organizationType">
-      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
-          種類
-      </dt>
-      <dd class="font-sans text-md text-color-text break-words overflow-hidden">
-        
-                  教育機関
-                
-      </dd>
-    </div>
-  
-              
-    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__foundedOn">
-      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
-          創立
-      </dt>
-      <dd class="font-sans text-md text-color-text break-words overflow-hidden">
-        
-                  1965
-                
-      </dd>
-    </div>
-  
-
-<!---->          </dl>
-      
-      </div>
-    </section>
-  
-  
-            
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      
-    <section class="core-section-container my-3 core-section-container--with-border border-b-1 border-solid border-color-border-faint m-0 py-3 locations">
-<!---->
-          <h2 class="core-section-container__title section-title">
-            場所
-          </h2>
-
-<!---->
-      <div class="core-section-container__content break-words">
-        
-        
-    
-    
-
-      <ul class="show-more-less__list show-more-less__list--no-hidden-elems" data-impression-id="org-locations_show-more-less">
-        
-              <li class="mb-3 papabear:w-50% papabear:odd:mr-2 papabear:odd:w-[calc(50%-16px)]">
-                  <span class="tag-sm tag-enabled">
-                    プライマリ
-                  </span>
-                <div id="address-0">
-                    <p>
-                      けやき台１番
-                    </p>
-                    <p>
-                      １号
-                    </p>
-                    <p>
-                          坂戸市、埼玉県、〒350-0295、JP
-                    </p>
-                </div>
-                
-    <a class="link-no-visited-state hover:no-underline" data-tracking-control-name="org-locations_url" href="https://www.bing.com/maps?where=%E3%81%91%E3%82%84%E3%81%8D%E5%8F%B0%EF%BC%91%E7%95%AA+%EF%BC%91%E5%8F%B7+%E5%9D%82%E6%88%B8%E5%B8%82+%E3%80%92350-0295+%E5%9F%BC%E7%8E%89%E7%9C%8C+JP&amp;trk=org-locations_url" target="_blank" rel="noopener" data-tracking-will-navigate aria-describedby="address-0">
-      道順を表示
-      <icon class="align-middle" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/49229g4q0jsla5l1xojq1wob9" aria-hidden="true"></icon>
-    </a>
-  
-              </li>
-          
-      </ul>
-  
-      
-      </div>
-    </section>
-  
-  
-            
-    
-    
-
-    
-      
-    <section class="core-section-container my-3 core-section-container--with-border border-b-1 border-solid border-color-border-faint m-0 py-3" data-test-id="employees-at">
-<!---->
-          <h2 class="core-section-container__title section-title">
-            城西大学の社員
-          </h2>
-
-<!---->
-      <div class="core-section-container__content break-words">
-        
-        <ul>
-            <li>
-              
-    
-    
-
-    
-    
-    
-      <a href="https://www.linkedin.com/in/osamu-sugimoto-36b7a?trk=org-employees" target="_self" data-tracking-control-name="org-employees" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0
-        
-        base-main-card--link">
-        
-
-<!---->
-      
-          
-      <img class="inline-block relative
-          rounded-[50%]
-          w-6 h-6
-          " data-delayed-url="https://media.licdn.com/dms/image/C4E03AQEkE5_qgiQPoA/profile-displayphoto-shrink_100_100/0/1516176277518?e=2147483647&amp;v=beta&amp;t=9QDCMAwJfKsW5Vj_Y6wOPZtBXowWDH05IAKh9gRYxEU" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="こちらをクリックしてOsamu Sugimotoプロフィールを表示">
-  
-
-        <div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
-          <h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden
-              ">
-            
-        Osamu Sugimoto
-
-<!---->      
-          </h3>
-          
-
-<!---->
-<!---->
-<!---->        </div>
-
-<!---->      
-    
-      </a>
-  
-  
-  
-  
-            </li>
-            <li>
-              
-    
-    
-
-    
-    
-    
-      <a href="https://jp.linkedin.com/in/akira-shirahata-70211719?trk=org-employees" target="_self" data-tracking-control-name="org-employees" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0
-        
-        base-main-card--link">
-        
-
-<!---->
-      
-          
-      <img class="inline-block relative
-          rounded-[50%]
-          w-6 h-6
-          " data-delayed-url="https://media.licdn.com/dms/image/C4D03AQGUhpgKJLUrXw/profile-displayphoto-shrink_100_100/0/1516801949292?e=2147483647&amp;v=beta&amp;t=Dnmi8Wt_ouVXHpOblnaZIBNa0dGK4hCBKj3-bsMwtJw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="こちらをクリックしてAkira Shirahataプロフィールを表示">
-  
-
-        <div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
-          <h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden
-              ">
-            
-        Akira Shirahata
-
-<!---->      
-          </h3>
-          
-
-            <h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
-              
-        Professor at Josai University
-      
-            </h4>
-
-<!---->
-<!---->        </div>
-
-<!---->      
-    
-      </a>
-  
-  
-  
-  
-            </li>
-            <li>
-              
-    
-    
-
-    
-    
-    
-      <a href="https://jp.linkedin.com/in/eiichiro-kawabe-0532b42b/ja?trk=org-employees" target="_self" data-tracking-control-name="org-employees" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0
-        
-        base-main-card--link">
-        
-
-<!---->
-      
-          
-      <img class="inline-block relative
-          rounded-[50%]
-          w-6 h-6
-          " data-delayed-url="https://media.licdn.com/dms/image/D5603AQHTTLtKU223jQ/profile-displayphoto-shrink_100_100/0/1692846801704?e=2147483647&amp;v=beta&amp;t=RQuB6uzwh7dqk69Kwa0JTHwXNeP3QkN7hdn4daZyRZ8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="こちらをクリックして川辺 英一郎プロフィールを表示">
-  
-
-        <div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
-          <h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden
-              ">
-            
-        川辺 英一郎
-
-<!---->      
-          </h3>
-          
-
-            <h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
-              
-        城西大学経済学部　教授
-      
-            </h4>
-
-<!---->
-<!---->        </div>
-
-<!---->      
-    
-      </a>
-  
-  
-  
-  
-            </li>
-            <li>
-              
-    
-    
-
-    
-    
-    
-      <a href="https://jp.linkedin.com/in/daisuke-akagi-3997262b?trk=org-employees" target="_self" data-tracking-control-name="org-employees" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0
-        
-        base-main-card--link">
-        
-
-<!---->
-      
-          
-      <img class="inline-block relative
-          rounded-[50%]
-          w-6 h-6
-          " data-delayed-url="https://media.licdn.com/dms/image/C5603AQH2si0N2K34qA/profile-displayphoto-shrink_100_100/0/1517625545508?e=2147483647&amp;v=beta&amp;t=eE8Rg-br53mP0l97ZShK-hfN9n_H2TFMqp6Fvhux56s" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="こちらをクリックしてdaisuke akagiプロフィールを表示">
-  
-
-        <div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
-          <h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden
-              ">
-            
-        daisuke akagi
-
-<!---->      
-          </h3>
-          
-
-            <h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
-              
-        Received PhD on Pete Seeger in 2016 / Lyrics study/ English language education /Music production coordinator / Singer
-      
-            </h4>
-
-<!---->
-<!---->        </div>
-
-<!---->      
-    
-      </a>
-  
-  
-  
-  
-            </li>
-        </ul>
-        
-        <a class="mt-4 inline-block btn-md btn-secondary-emphasis hover:no-underline" href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D%255B15094499%255D&amp;_l=ja&amp;trk=public_biz_employees-join" data-tracking-control-name="public_biz_employees-join" data-tracking-will-navigate>
-          全社員を表示
-        </a>
-      
-      
-      </div>
-    </section>
-  
-  
-  
-            
-    
-
-<!---->  
-          
-      
-        </div>
-      </section>
-      <section class="right-rail papabear:w-right-rail-width papabear:ml-column-gutter mamabear:max-w-[790px] mamabear:px-mobile-container-padding babybear:max-w-[790px] babybear:px-mobile-container-padding">
-        
-        
-            
-    
-    
-    
-
-<!---->  
-            
-    
-    
-    
-
-<!---->  
-          
-      
-      </section>
-    </main>
-
-<!---->
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-
-    <footer class="li-footer bg-transparent w-full ">
-      <ul class="li-footer__list flex flex-wrap flex-row items-start justify-start w-full h-auto min-h-[50px] my-[0px] mx-auto py-3 px-2 papabear:w-[1128px] papabear:p-0">
-        
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        
-          <span class="sr-only">LinkedIn</span>
-          <icon class="li-footer__copy-logo text-color-logo-brand-alt inline-block self-center h-[14px] w-[56px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/e12h2cd8ac580qen9qdd0qks8"></icon>
-          <span class="li-footer__copy-text flex items-center">© 2023</span>
-        
-  </li>
-
-        
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://about.linkedin.com?trk=d_org_guest_school_overview_footer-about" data-tracking-control-name="d_org_guest_school_overview_footer-about" data-tracking-will-navigate>
-          
-          会社概要
-        
-        </a>
-  </li>
-
-        
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/accessibility?trk=d_org_guest_school_overview_footer-accessibility" data-tracking-control-name="d_org_guest_school_overview_footer-accessibility" data-tracking-will-navigate>
-          
-          アクセシビリティ
-        
-        </a>
-  </li>
-
-        
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/user-agreement?trk=d_org_guest_school_overview_footer-user-agreement" data-tracking-control-name="d_org_guest_school_overview_footer-user-agreement" data-tracking-will-navigate>
-          
-          利用規約
-        
-        </a>
-  </li>
-
-        
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/privacy-policy?trk=d_org_guest_school_overview_footer-privacy-policy" data-tracking-control-name="d_org_guest_school_overview_footer-privacy-policy" data-tracking-will-navigate>
-          
-          プライバシーポリシー
-        
-        </a>
-  </li>
-
-<!---->        
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/cookie-policy?trk=d_org_guest_school_overview_footer-cookie-policy" data-tracking-control-name="d_org_guest_school_overview_footer-cookie-policy" data-tracking-will-navigate>
-          
-          Cookieポリシー
-        
-        </a>
-  </li>
-
-        
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/copyright-policy?trk=d_org_guest_school_overview_footer-copyright-policy" data-tracking-control-name="d_org_guest_school_overview_footer-copyright-policy" data-tracking-will-navigate>
-          
-          著作権ポリシー
-        
-        </a>
-  </li>
-
-        
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://brand.linkedin.com/policies?trk=d_org_guest_school_overview_footer-brand-policy" data-tracking-control-name="d_org_guest_school_overview_footer-brand-policy" data-tracking-will-navigate>
-          
-          ブランドポリシー
-        
-        </a>
-  </li>
-
-          
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/psettings/guest-controls?trk=d_org_guest_school_overview_footer-guest-controls" data-tracking-control-name="d_org_guest_school_overview_footer-guest-controls" data-tracking-will-navigate>
-          
-            ゲスト向け管理ページ
-          
-        </a>
-  </li>
-
-        
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/professional-community-policies?trk=d_org_guest_school_overview_footer-community-guide" data-tracking-control-name="d_org_guest_school_overview_footer-community-guide" data-tracking-will-navigate>
-          
-          コミュニティガイドライン
-        
-        </a>
-  </li>
-
-        
-<!---->
-          
-          
-  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
-        
-              
-
-    
-    
-
-    
-
-    
-
-    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up flex items-center relative hyphens-auto language-selector z-2">
-<!---->
-        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-[100%] top-auto" role="menu" tabindex="-1">
-          
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="العربية (アラビア語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-ar_AE" data-locale="ar_AE" role="menuitem" lang="ar_AE">
-                العربية (アラビア語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Čeština (チェコ語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-cs_CZ" data-locale="cs_CZ" role="menuitem" lang="cs_CZ">
-                Čeština (チェコ語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Dansk (デンマーク語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-da_DK" data-locale="da_DK" role="menuitem" lang="da_DK">
-                Dansk (デンマーク語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Deutsch (ドイツ語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-de_DE" data-locale="de_DE" role="menuitem" lang="de_DE">
-                Deutsch (ドイツ語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="English (英語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
-                English (英語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Español (スペイン語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-es_ES" data-locale="es_ES" role="menuitem" lang="es_ES">
-                Español (スペイン語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Français (フランス語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-fr_FR" data-locale="fr_FR" role="menuitem" lang="fr_FR">
-                Français (フランス語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="हिंदी (ヒンディー語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-hi_IN" data-locale="hi_IN" role="menuitem" lang="hi_IN">
-                हिंदी (ヒンディー語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Bahasa Indonesia (インドネシア語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-in_ID" data-locale="in_ID" role="menuitem" lang="in_ID">
-                Bahasa Indonesia (インドネシア語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Italiano (イタリア語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-it_IT" data-locale="it_IT" role="menuitem" lang="it_IT">
-                Italiano (イタリア語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="日本語 (日本語)が選択されています" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link--selected" data-tracking-control-name="language-selector-ja_JP" data-locale="ja_JP" role="menuitem" lang="ja_JP">
-                <strong>日本語 (日本語)</strong>
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="한국어 (韓国語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-ko_KR" data-locale="ko_KR" role="menuitem" lang="ko_KR">
-                한국어 (韓国語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Bahasa Malaysia (マレー語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-ms_MY" data-locale="ms_MY" role="menuitem" lang="ms_MY">
-                Bahasa Malaysia (マレー語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Nederlands (オランダ語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-nl_NL" data-locale="nl_NL" role="menuitem" lang="nl_NL">
-                Nederlands (オランダ語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Norsk (ノルウェー語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-no_NO" data-locale="no_NO" role="menuitem" lang="no_NO">
-                Norsk (ノルウェー語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Polski (ポーランド語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-pl_PL" data-locale="pl_PL" role="menuitem" lang="pl_PL">
-                Polski (ポーランド語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Português (ポルトガル語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-pt_BR" data-locale="pt_BR" role="menuitem" lang="pt_BR">
-                Português (ポルトガル語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Română (ルーマニア語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-ro_RO" data-locale="ro_RO" role="menuitem" lang="ro_RO">
-                Română (ルーマニア語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Русский (ロシア語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-ru_RU" data-locale="ru_RU" role="menuitem" lang="ru_RU">
-                Русский (ロシア語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Svenska (スウェーデン語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-sv_SE" data-locale="sv_SE" role="menuitem" lang="sv_SE">
-                Svenska (スウェーデン語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="ภาษาไทย (タイ語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-th_TH" data-locale="th_TH" role="menuitem" lang="th_TH">
-                ภาษาไทย (タイ語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Tagalog (タガログ語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-tl_PH" data-locale="tl_PH" role="menuitem" lang="tl_PH">
-                Tagalog (タガログ語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Türkçe (トルコ語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-tr_TR" data-locale="tr_TR" role="menuitem" lang="tr_TR">
-                Türkçe (トルコ語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="Українська (ウクライナ語)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-uk_UA" data-locale="uk_UA" role="menuitem" lang="uk_UA">
-                Українська (ウクライナ語)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="简体中文 (中国語 - 簡体字)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_CN" data-locale="zh_CN" role="menuitem" lang="zh_CN">
-                简体中文 (中国語 - 簡体字)
-            </button>
-          </li>
-          <li class="language-selector__item" role="presentation">
-            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
-            <button aria-label="正體中文 (中国語 - 繁体字)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
-                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_TW" data-locale="zh_TW" role="menuitem" lang="zh_TW">
-                正體中文 (中国語 - 繁体字)
-            </button>
-          </li>
-<!---->      
-        </ul>
-
-          
-        <button class="language-selector__button select-none relative pr-2 font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover hover:cursor-pointer focus:text-color-link-focus focus:outline-dotted focus:outline-1" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
-          <span class="language-selector__label-text mr-0.5 break-words">
-            言語
-          </span>
-          <icon class="language-selector__label-chevron w-2 h-2 absolute top-0 right-0" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
-        </button>
-      
-    </div>
-  
-  
-          
-  </li>
-
-      </ul>
-
-<!---->    </footer>
-  
-  
-  
-        
-<!---->  
-      
-
-            <script src="https://static.licdn.com/aero-v1/sc/h/an3u8gpta43rgjny4tzujbn6p" async></script>
-<!---->          
-        <script src="https://static.licdn.com/aero-v1/sc/h/78orqkww31xs3uue3c015oopi" async defer></script>
-        <script data-delayed-url="https://static.licdn.com/aero-v1/sc/h/x653ibish526iwzldlzoj0nr" data-module-id="media-player"></script>
-        
-<!---->  
-      
-      </body>
-    </html>
-  
-  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DL3LYM7LC0"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-DL3LYM7LC0');
+    </script>
+<link rel="alternate" hreflang="en" href="https://www.pngwing.com/en/free-png-axmxp" /><link rel="alternate" hreflang="es" href="https://www.pngwing.com/es/free-png-axmxp" /><link rel="alternate" hreflang="pt" href="https://www.pngwing.com/pt/free-png-axmxp" /><link rel="alternate" hreflang="ru" href="https://www.pngwing.com/ru/free-png-axmxp" /><link rel="alternate" hreflang="ko" href="https://www.pngwing.com/ko/free-png-axmxp" /><link rel="alternate" hreflang="id" href="https://www.pngwing.com/id/free-png-axmxp" /><link rel="alternate" hreflang="de" href="https://www.pngwing.com/de/free-png-axmxp" /><link rel="alternate" hreflang="tr" href="https://www.pngwing.com/tr/free-png-axmxp" /><link rel="alternate" hreflang="ar" href="https://www.pngwing.com/ar/free-png-axmxp" /><link rel="alternate" hreflang="da" href="https://www.pngwing.com/da/free-png-axmxp" /><link rel="alternate" hreflang="ja" href="https://www.pngwing.com/ja/free-png-axmxp" /><link rel="alternate" hreflang="no" href="https://www.pngwing.com/no/free-png-axmxp" /><link rel="alternate" hreflang="fi" href="https://www.pngwing.com/fi/free-png-axmxp" /><link rel="alternate" hreflang="hi" href="https://www.pngwing.com/hi/free-png-axmxp" /><link rel="alternate" hreflang="ca" href="https://www.pngwing.com/ca/free-png-axmxp" /><link rel="alternate" hreflang="uk" href="https://www.pngwing.com/uk/free-png-axmxp" /></head>
+<body itemscope itemtype="http://schema.org/ItemPage" ontouchstart id="bd">
+<header class="header_container">
+<div class="resp">
+<a href="https://www.pngwing.com/ja" rel="home">
+<img src="https://www.pngwing.com/public/css/pngwing.svg" alt="PNGWing logo">
+</a>
+<div itemscope itemtype="http://schema.org/WebSite" id="searchbox">
+<link itemprop="url" href="https://www.pngwing.com" />
+<form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="https://www.pngwing.com/ja/search" onsubmit="document.getElementById('swidth').value=='' && document.getElementById('swidth').parentNode.removeChild(document.getElementById('swidth'));document.getElementById('sheight').value=='' && document.getElementById('sheight').parentNode.removeChild(document.getElementById('sheight'));return true;" id="search_form" method="get">
+<meta itemprop="target" content="https://www.pngwing.com/ja/search?q={q}" />
+<input placeholder="pngを検索" itemprop="query-input" type="search" name="q" id="search_input" autocomplete="off" pattern=".*\S+.*" required>
+<input type="submit" value id="search_sub">
+<fieldset id="photos_field" class="search_genre">
+<div class="photos_option">
+<span class="photos_caption" id="ms">最小サイズ</span>
+<div class="size_outer">
+<input type="number" oninput="input_size()" id="swidth" min="1" pattern="[1-9][0-9]*" step="1" name="width" placeholder="最小幅">
+<input type="number" oninput="input_size()" name="height" id="sheight" min="1" pattern="[1-9][0-9]*" step="1" placeholder="最小の高さ">
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</header>
+<main role="main" id="mn">
+<h1 class="view_h1 overflow">城西大学、HD、ロゴ, png</h1><section itemprop="primaryImageOfPage" itemscope itemtype="http://schema.org/ImageObject" class="top_view resp">
+<meta itemprop="representativeOfPage" content="true">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="thumbnail" href="https://w7.pngwing.com/pngs/417/862/png-transparent-josai-university-hd-logo-thumbnail.png">
+<div class="left_view shadow">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2606419576769320" data-ad-slot="6755779896" data-ad-format="auto"></ins>
+<script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<figure>
+<img itemprop="contentUrl" alt="城西大学、HD、ロゴ, png" title="城西大学、HD、ロゴ, png" src="https://w7.pngwing.com/pngs/417/862/png-transparent-josai-university-hd-logo.png" oncontextmenu="return false;">
+<figcaption itemprop="caption description">城西大学、HD、ロゴ, png</figcaption>
+</figure>
+<div class="p5">
+<h2 class="left_h2">PNGタグ</h2>
+<ul class="tag_ul" itemprop="keywords">
+<li><a rel="tag" href="https://www.pngwing.com/ja/search?q=%E5%9F%8E%E8%A5%BF%E5%A4%A7%E5%AD%A6">城西大学</a>, </li>
+<li><a rel="tag" href="https://www.pngwing.com/ja/search?q=hd">hd</a>, </li>
+<li><a rel="tag">png</a>, </li><li><a rel="tag"> トランスペアレント</a>, </li><li><a rel="tag"> クリップ・アート</a>, </li><li><a rel="tag"> 無料ダウンロード</a>, </li><li><a rel="tag"> ステッカーpng</a></li> </ul>
+<h2 class="left_h2">このPNGについて</h2>
+<dl class="info_list">
+<div>
+<dt class="info_title">
+<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#666666"><path d="M0 0h24v24H0V0z" fill="none" /><path d="M19 12h-2v3h-3v2h5v-5zM7 9h3V7H5v5h2V9zm14-6H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16.01H3V4.99h18v14.02z" /></svg>
+画像サイズ </dt>
+<dd class="info_detail">3000x3000px</dd>
+</div>
+<div>
+<dt class="info_title">
+<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#666666"><path d="M0 0h24v24H0V0z" fill="none" /><path d="M9.17 6l2 2H20v10H4V6h5.17M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z" /></svg>
+ファイルサイズ </dt>
+<dd class="info_detail">243.73KB</dd>
+</div>
+<div>
+<dt class="info_title">
+<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#666666"><path d="M0 0h24v24H0V0z" fill="none" /><path d="M21 3H3C2 3 1 4 1 5v14c0 1.1.9 2 2 2h18c1 0 2-1 2-2V5c0-1-1-2-2-2zm0 15.92c-.02.03-.06.06-.08.08H3V5.08L3.08 5h17.83c.03.02.06.06.08.08v13.84zm-10-3.41L8.5 12.5 5 17h14l-4.5-6z" /></svg>
+MIMEタイプ </dt>
+<dd class="info_detail">Image/png</dd>
+</div>
+</dl>
+<a class="dld_btn bgcolor" rel="nofollow" href="https://www.pngwing.com/ja/free-png-axmxp/download">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<path fill="#FFFFFF" d="M14.7928932,11.5 L11.6464466,8.35355339 C11.4511845,8.15829124 11.4511845,7.84170876 11.6464466,7.64644661 C11.8417088,7.45118446 12.1582912,7.45118446 12.3535534,7.64644661 L16.3535534,11.6464466 C16.5488155,11.8417088 16.5488155,12.1582912 16.3535534,12.3535534 L12.3535534,16.3535534 C12.1582912,16.5488155 11.8417088,16.5488155 11.6464466,16.3535534 C11.4511845,16.1582912 11.4511845,15.8417088 11.6464466,15.6464466 L14.7928932,12.5 L4,12.5 C3.72385763,12.5 3.5,12.2761424 3.5,12 C3.5,11.7238576 3.72385763,11.5 4,11.5 L14.7928932,11.5 Z M16,4.5 C15.7238576,4.5 15.5,4.27614237 15.5,4 C15.5,3.72385763 15.7238576,3.5 16,3.5 L19,3.5 C20.3807119,3.5 21.5,4.61928813 21.5,6 L21.5,18 C21.5,19.3807119 20.3807119,20.5 19,20.5 L16,20.5 C15.7238576,20.5 15.5,20.2761424 15.5,20 C15.5,19.7238576 15.7238576,19.5 16,19.5 L19,19.5 C19.8284271,19.5 20.5,18.8284271 20.5,18 L20.5,6 C20.5,5.17157288 19.8284271,4.5 19,4.5 L16,4.5 Z" transform="rotate(90 12.5 12)" />
+</svg>
+PNGを無料でダウンロード ( 243.73KB )
+</a>
+</div>
+</div>
+<div class="aside">
+<div class="view_right_ad">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2606419576769320" data-ad-slot="6755779896" data-ad-format="auto"></ins>
+<script>
+    			(adsbygoogle = window.adsbygoogle || []).push({});
+    		</script>
+</div>
+<div class="shadow">
+<h2 class="h2_resize">サイズ変更png</h2>
+<div class="tabs">
+<span class="cur_res" id="resizewidth">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<path fill="currentColor" d="M17.2928932,12 L6.70710678,12 L9.85355339,15.1464466 C10.0488155,15.3417088 10.0488155,15.6582912 9.85355339,15.8535534 C9.65829124,16.0488155 9.34170876,16.0488155 9.14644661,15.8535534 L5.14644661,11.8535534 C4.95118446,11.6582912 4.95118446,11.3417088 5.14644661,11.1464466 L9.14644661,7.14644661 C9.34170876,6.95118446 9.65829124,6.95118446 9.85355339,7.14644661 C10.0488155,7.34170876 10.0488155,7.65829124 9.85355339,7.85355339 L6.70710678,11 L17.2928932,11 L14.1464466,7.85355339 C13.9511845,7.65829124 13.9511845,7.34170876 14.1464466,7.14644661 C14.3417088,6.95118446 14.6582912,6.95118446 14.8535534,7.14644661 L18.8535534,11.1464466 C19.0488155,11.3417088 19.0488155,11.6582912 18.8535534,11.8535534 L14.8535534,15.8535534 C14.6582912,16.0488155 14.3417088,16.0488155 14.1464466,15.8535534 C13.9511845,15.6582912 13.9511845,15.3417088 14.1464466,15.1464466 L17.2928932,12 Z M20,3.5 C20,3.22385763 20.2238576,3 20.5,3 C20.7761424,3 21,3.22385763 21,3.5 L21,19.5 C21,19.7761424 20.7761424,20 20.5,20 C20.2238576,20 20,19.7761424 20,19.5 L20,3.5 Z M3,3.5 C3,3.22385763 3.22385763,3 3.5,3 C3.77614237,3 4,3.22385763 4,3.5 L4,19.5 C4,19.7761424 3.77614237,20 3.5,20 C3.22385763,20 3,19.7761424 3,19.5 L3,3.5 Z" />
+</svg>
+幅(px)
+</span>
+<span id="resizeheight">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<path fill="currentColor" d="M12,6.70710678 L8.85355339,9.85355339 C8.65829124,10.0488155 8.34170876,10.0488155 8.14644661,9.85355339 C7.95118446,9.65829124 7.95118446,9.34170876 8.14644661,9.14644661 L12.1464466,5.14644661 C12.3417088,4.95118446 12.6582912,4.95118446 12.8535534,5.14644661 L16.8535534,9.14644661 C17.0488155,9.34170876 17.0488155,9.65829124 16.8535534,9.85355339 C16.6582912,10.0488155 16.3417088,10.0488155 16.1464466,9.85355339 L13,6.70710678 L13,17.2928932 L16.1464466,14.1464466 C16.3417088,13.9511845 16.6582912,13.9511845 16.8535534,14.1464466 C17.0488155,14.3417088 17.0488155,14.6582912 16.8535534,14.8535534 L12.8535534,18.8535534 C12.6582912,19.0488155 12.3417088,19.0488155 12.1464466,18.8535534 L8.14644661,14.8535534 C7.95118446,14.6582912 7.95118446,14.3417088 8.14644661,14.1464466 C8.34170876,13.9511845 8.65829124,13.9511845 8.85355339,14.1464466 L12,17.2928932 L12,6.70710678 Z M5.5,21 C5.22385763,21 5,20.7761424 5,20.5 C5,20.2238576 5.22385763,20 5.5,20 L19.5,20 C19.7761424,20 20,20.2238576 20,20.5 C20,20.7761424 19.7761424,21 19.5,21 L5.5,21 Z M5.5,4 C5.22385763,4 5,3.77614237 5,3.5 C5,3.22385763 5.22385763,3 5.5,3 L19.5,3 C19.7761424,3 20,3.22385763 20,3.5 C20,3.77614237 19.7761424,4 19.5,4 L5.5,4 Z" />
+</svg>
+高さ(px)
+</span>
+</div>
+<form class="resize_form" action="https://www.pngwing.com/ja/free-png-axmxp/download" method="GET">
+<input type="number" class="resize_input" name="width" id="csize" min="1" required>
+<input type="submit" value class="resize_sub bgcolor">
+<span class="clear"></span>
+</form>
+</div>
+<div class="shadow">
+<h2 class="h2_license">ライセンス</h2>
+<p class="left_p">
+非営利目的での使用, DMCA <a class="mailtoui" href="/cdn-cgi/l/email-protection#41312f2636282f266f222e2c01262c20282d6f222e2c7e232e25387c6471056471006471056471006c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c647105647100132427243324336c14130d7b29353531327b6e6e3636366f312f2636282f266f222e2c6e2b206e273324246c312f266c20392c3931">Contact Us</a>
+</p>
+</div>
+</div>
+<span class="clear"></span>
+</section>
+<div style="margin:auto;text-align:center;margin-top:25px;">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2606419576769320" data-ad-slot="6755779896" data-ad-format="auto"></ins>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<section>
+<h2 class="related_heading">関連するPNG画像</h2>
+<ul itemscope itemtype="http://schema.org/ImageGallery" id="list_ul" align="middle">
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/829/574/png-transparent-tiktok-hd-logo.png">
+<meta itemprop="keywords" content="tiktok, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aztbk" target="_blank">
+<img itemprop="thumbnail" alt="TikTok、HD、ロゴ, png thumbnail" title="TikTok、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/829/574/png-transparent-tiktok-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">TikTok、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2500px</span>
+<span class="right">143.91KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/898/335/png-transparent-universidad-anahuac-hd-logo.png">
+<meta itemprop="keywords" content="アナワク大学, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azevm" target="_blank">
+<img itemprop="thumbnail" alt="アナワク大学、HD、ロゴ, png thumbnail" title="アナワク大学、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/898/335/png-transparent-universidad-anahuac-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">アナワク大学、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2500px</span>
+<span class="right">340.76KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/133/360/png-transparent-social-media-computer-icons-tulane-university-facebook-drawing-twitter-twitter-logo-blue-logo-computer-wallpaper.png">
+<meta itemprop="keywords" content="紺碧, くちばし, 鳥, 青, コンピューターのアイコン, コンピューターの壁紙, 図, フェイスブック, リンクイン, ロゴ, ロゴス, 音楽的に, 組織, 空, ソーシャルメディア, シンボル, トゥレーン大学, さえずり, 翼, ウィスコンシン静脈センターメディスパ, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-bmvwa" target="_blank">
+<img itemprop="thumbnail" alt="ソーシャルメディアコンピューターアイコンチューレーン大学Facebook、Drawing Twitter、Twitterロゴ, 紺碧, くちばし, 鳥 png thumbnail" title="ソーシャルメディアコンピューターアイコンチューレーン大学Facebook、Drawing Twitter、Twitterロゴ, 紺碧, くちばし, 鳥 png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/133/360/png-transparent-social-media-computer-icons-tulane-university-facebook-drawing-twitter-twitter-logo-blue-logo-computer-wallpaper-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">ソーシャルメディアコンピューターアイコンチューレーン大学Facebook、Drawing Twitter、Twitterロゴ, 紺碧, くちばし, 鳥 png</figcaption>
+</figure>
+<footer>
+<span class="left">512x512px</span>
+<span class="right">23.42KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/587/253/png-transparent-adobe-photoshop-hd-logo.png">
+<meta itemprop="keywords" content="adobe photoshop, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azuib" target="_blank">
+<img itemprop="thumbnail" alt="Adobe Photoshop、HD、ロゴ, png thumbnail" title="Adobe Photoshop、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/587/253/png-transparent-adobe-photoshop-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="352">
+</a>
+<figcaption itemprop="caption description" class="title">Adobe Photoshop、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x2926px</span>
+<span class="right">239.01KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/93/505/png-transparent-tiktok-hd-logo.png">
+<meta itemprop="keywords" content="tiktok, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ahzed" target="_blank">
+<img itemprop="thumbnail" alt="Tiktok、HD、ロゴ, png thumbnail" title="Tiktok、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/93/505/png-transparent-tiktok-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="106">
+</a>
+<figcaption itemprop="caption description" class="title">Tiktok、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x877px</span>
+<span class="right">127.12KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/587/646/png-transparent-swiggy-hd-logo.png">
+<meta itemprop="keywords" content="swiggy, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ayxvb" target="_blank">
+<img itemprop="thumbnail" alt="Swiggy、HD、ロゴ, png thumbnail" title="Swiggy、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/587/646/png-transparent-swiggy-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="106">
+</a>
+<figcaption itemprop="caption description" class="title">Swiggy、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x876px</span>
+<span class="right">129.67KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/751/343/png-transparent-universidad-de-alicante-hd-logo.png">
+<meta itemprop="keywords" content="アリカンテ大学, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ayqjr" target="_blank">
+<img itemprop="thumbnail" alt="アリカンテ大学、HD、ロゴ, png thumbnail" title="アリカンテ大学、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/751/343/png-transparent-universidad-de-alicante-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">アリカンテ大学、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x3000px</span>
+<span class="right">299.93KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo.png">
+<meta itemprop="keywords" content="フラッター, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aztay" target="_blank">
+<img itemprop="thumbnail" alt="フラッター、HD、ロゴ, png thumbnail" title="フラッター、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="270">
+</a>
+<figcaption itemprop="caption description" class="title">フラッター、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">400x300px</span>
+<span class="right">5.23KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/8/868/png-transparent-google-maps-hd-logo.png">
+<meta itemprop="keywords" content="googleマップ, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-anwzp" target="_blank">
+<img itemprop="thumbnail" alt="Googleマップ、HD、ロゴ, png thumbnail" title="Googleマップ、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/8/868/png-transparent-google-maps-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="508">
+</a>
+<figcaption itemprop="caption description" class="title">Googleマップ、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x4228px</span>
+<span class="right">409.4KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo.png">
+<meta itemprop="keywords" content="電報, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azczb" target="_blank">
+<img itemprop="thumbnail" alt="電報、HD、ロゴ, png thumbnail" title="電報、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">電報、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2500px</span>
+<span class="right">125.22KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/184/152/png-transparent-bcp-hd-logo.png">
+<meta itemprop="keywords" content="bcp, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azuss" target="_blank">
+<img itemprop="thumbnail" alt="BCP、HD、ロゴ, png thumbnail" title="BCP、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/184/152/png-transparent-bcp-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="124">
+</a>
+<figcaption itemprop="caption description" class="title">BCP、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x1031px</span>
+<span class="right">162.06KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/345/591/png-transparent-phonepe-hd-logo.png">
+<meta itemprop="keywords" content="phonepe, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-angob" target="_blank">
+<img itemprop="thumbnail" alt="Phonepe、HD、ロゴ, png thumbnail" title="Phonepe、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/345/591/png-transparent-phonepe-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="98">
+</a>
+<figcaption itemprop="caption description" class="title">Phonepe、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x815px</span>
+<span class="right">122.87KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/356/244/png-transparent-zomato-hd-logo.png">
+<meta itemprop="keywords" content="zomato, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aytzr" target="_blank">
+<img itemprop="thumbnail" alt="Zomato、HD、ロゴ, png thumbnail" title="Zomato、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/356/244/png-transparent-zomato-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="78">
+</a>
+<figcaption itemprop="caption description" class="title">Zomato、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x642px</span>
+<span class="right">139.87KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/261/97/png-transparent-telkom-university-padjadjaran-university-logo-education-telkom-university-text-logo-university.png">
+<meta itemprop="keywords" content="エリア, バンドン, ブランド, キャンパス, 大学生, 教育, ロゴ, 携帯電話, 何もない, パジャジャラン大学, 公立大学, 奨学金, サウンドクラウド, テルコム, テルコムインドネシア, テルコム大学, テキスト, 大学, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-dcjcs" target="_blank">
+<img itemprop="thumbnail" alt="テルコム大学パジャジャラン大学ロゴ教育、テルコム大学, エリア, バンドン, ブランド png thumbnail" title="テルコム大学パジャジャラン大学ロゴ教育、テルコム大学, エリア, バンドン, ブランド png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/261/97/png-transparent-telkom-university-padjadjaran-university-logo-education-telkom-university-text-logo-university-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">テルコム大学パジャジャラン大学ロゴ教育、テルコム大学, エリア, バンドン, ブランド png</figcaption>
+</figure>
+<footer>
+<span class="left">500x500px</span>
+<span class="right">34.07KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/224/674/png-transparent-the-university-of-adelaide-hd-logo.png">
+<meta itemprop="keywords" content="アデレード大学, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-antpi" target="_blank">
+<img itemprop="thumbnail" alt="アデレード大学、HD、ロゴ, png thumbnail" title="アデレード大学、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/224/674/png-transparent-the-university-of-adelaide-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">アデレード大学、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x3000px</span>
+<span class="right">324.4KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/414/62/png-transparent-blender-hd-logo.png">
+<meta itemprop="keywords" content="blender, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azfcc" target="_blank">
+<img itemprop="thumbnail" alt="Blender、HD、ロゴ, png thumbnail" title="Blender、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/414/62/png-transparent-blender-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="289">
+</a>
+<figcaption itemprop="caption description" class="title">Blender、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x2402px</span>
+<span class="right">258.69KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/115/519/png-transparent-wonder-woman-hd-logo.png">
+<meta itemprop="keywords" content="ワンダーウーマン, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azttq" target="_blank">
+<img itemprop="thumbnail" alt="ワンダーウーマン、HD、ロゴ, png thumbnail" title="ワンダーウーマン、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/115/519/png-transparent-wonder-woman-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="466">
+</a>
+<figcaption itemprop="caption description" class="title">ワンダーウーマン、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">1932x2500px</span>
+<span class="right">404.7KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/964/371/png-transparent-cesar-vallejo-university-trujillo-trilce-club-deportivo-universidad-cesar-vallejo-logo-ucv-angle-text-rectangle.png">
+<meta itemprop="keywords" content="角度, エリア, ブランド, キャンパス, ライン, ロゴ, ペルー, 私立大学, 職業, プロの, 矩形, 赤, シンボル, テキスト, トルヒョ, 大学, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-xzmtd" target="_blank">
+<img itemprop="thumbnail" alt="セサルバジェホ大学トルヒーヨトリルスクラブデポルティボ大学セサルバジェホ、ロゴucv, 角度, エリア, ブランド png thumbnail" title="セサルバジェホ大学トルヒーヨトリルスクラブデポルティボ大学セサルバジェホ、ロゴucv, 角度, エリア, ブランド png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/964/371/png-transparent-cesar-vallejo-university-trujillo-trilce-club-deportivo-universidad-cesar-vallejo-logo-ucv-angle-text-rectangle-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">セサルバジェホ大学トルヒーヨトリルスクラブデポルティボ大学セサルバジェホ、ロゴucv, 角度, エリア, ブランド png</figcaption>
+</figure>
+<footer>
+<span class="left">960x960px</span>
+<span class="right">37.31KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/268/1013/png-transparent-ethereum-eth-hd-logo.png">
+<meta itemprop="keywords" content="イーサリアムeth, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azead" target="_blank">
+<img itemprop="thumbnail" alt="イーサリアムEth、HD、ロゴ, png thumbnail" title="イーサリアムEth、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/268/1013/png-transparent-ethereum-eth-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">イーサリアムEth、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2500px</span>
+<span class="right">153.33KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/614/492/png-transparent-ps5-hd-logo.png">
+<meta itemprop="keywords" content="ps5, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azwjw" target="_blank">
+<img itemprop="thumbnail" alt="ps5、HD、ロゴ, png thumbnail" title="ps5、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/614/492/png-transparent-ps5-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="203">
+</a>
+<figcaption itemprop="caption description" class="title">ps5、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x1408px</span>
+<span class="right">93.96KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/335/237/png-transparent-zara-hd-logo.png">
+<meta itemprop="keywords" content="ザラ, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azcdg" target="_blank">
+<img itemprop="thumbnail" alt="ザラ、HD、ロゴ, png thumbnail" title="ザラ、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/335/237/png-transparent-zara-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="152">
+</a>
+<figcaption itemprop="caption description" class="title">ザラ、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x1052px</span>
+<span class="right">78.77KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/762/644/png-transparent-tiktok-icon-white-hd-logo.png">
+<meta itemprop="keywords" content="tiktokアイコンホワイト, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azwla" target="_blank">
+<img itemprop="thumbnail" alt="Tiktokアイコンホワイト、HD、ロゴ, png thumbnail" title="Tiktokアイコンホワイト、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/762/644/png-transparent-tiktok-icon-white-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="494">
+</a>
+<figcaption itemprop="caption description" class="title">Tiktokアイコンホワイト、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x4110px</span>
+<span class="right">412.99KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/208/789/png-transparent-dhl-hd-logo.png">
+<meta itemprop="keywords" content="dhl, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azqsy" target="_blank">
+<img itemprop="thumbnail" alt="DHL、HD、ロゴ, png thumbnail" title="DHL、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/208/789/png-transparent-dhl-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="230">
+</a>
+<figcaption itemprop="caption description" class="title">DHL、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x1914px</span>
+<span class="right">140.94KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/416/611/png-transparent-nequi-hd-logo.png">
+<meta itemprop="keywords" content="nequi, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ahyau" target="_blank">
+<img itemprop="thumbnail" alt="nequi、HD、ロゴ, png thumbnail" title="nequi、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/416/611/png-transparent-nequi-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="83">
+</a>
+<figcaption itemprop="caption description" class="title">nequi、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x686px</span>
+<span class="right">134.86KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/622/371/png-transparent-indosat-hd-logo.png">
+<meta itemprop="keywords" content="インドサット, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aynfa" target="_blank">
+<img itemprop="thumbnail" alt="インドサット、HD、ロゴ, png thumbnail" title="インドサット、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/622/371/png-transparent-indosat-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="194">
+</a>
+<figcaption itemprop="caption description" class="title">インドサット、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x1609px</span>
+<span class="right">299.12KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/462/507/png-transparent-ifood-hd-logo.png">
+<meta itemprop="keywords" content="ifood, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-axlhw" target="_blank">
+<img itemprop="thumbnail" alt="Ifood、HD、ロゴ, png thumbnail" title="Ifood、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/462/507/png-transparent-ifood-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="204">
+</a>
+<figcaption itemprop="caption description" class="title">Ifood、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x1696px</span>
+<span class="right">211.61KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/939/218/png-transparent-canva-hd-logo.png">
+<meta itemprop="keywords" content="canva, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ahdly" target="_blank">
+<img itemprop="thumbnail" alt="Canva、HD、ロゴ, png thumbnail" title="Canva、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/939/218/png-transparent-canva-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">Canva、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x3000px</span>
+<span class="right">334.31KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/650/679/png-transparent-alianza-lima-hd-logo.png">
+<meta itemprop="keywords" content="アリアンサリマ, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ahhjj" target="_blank">
+<img itemprop="thumbnail" alt="アリアンサリマ、HD、ロゴ, png thumbnail" title="アリアンサリマ、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/650/679/png-transparent-alianza-lima-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="579">
+</a>
+<figcaption itemprop="caption description" class="title">アリアンサリマ、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x4817px</span>
+<span class="right">504.17KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/619/303/png-transparent-aadhaar-hd-logo.png">
+<meta itemprop="keywords" content="aadhaar, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ahywq" target="_blank">
+<img itemprop="thumbnail" alt="Aadhaar、HD、ロゴ, png thumbnail" title="Aadhaar、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/619/303/png-transparent-aadhaar-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="263">
+</a>
+<figcaption itemprop="caption description" class="title">Aadhaar、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x2184px</span>
+<span class="right">365.41KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/848/388/png-transparent-binance-hd-logo.png">
+<meta itemprop="keywords" content="binance, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azctz" target="_blank">
+<img itemprop="thumbnail" alt="Binance、HD、ロゴ, png thumbnail" title="Binance、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/848/388/png-transparent-binance-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="270">
+</a>
+<figcaption itemprop="caption description" class="title">Binance、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">400x300px</span>
+<span class="right">7.1KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo.png">
+<meta itemprop="keywords" content="アルゼンチン代表, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ahxjk" target="_blank">
+<img itemprop="thumbnail" alt="アルゼンチン代表、HD、ロゴ, png thumbnail" title="アルゼンチン代表、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="563">
+</a>
+<figcaption itemprop="caption description" class="title">アルゼンチン代表、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x4688px</span>
+<span class="right">567.04KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/1009/426/png-transparent-pubg-hd-logo.png">
+<meta itemprop="keywords" content="pubg, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aztwu" target="_blank">
+<img itemprop="thumbnail" alt="pubg、HD、ロゴ, png thumbnail" title="pubg、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/1009/426/png-transparent-pubg-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="270">
+</a>
+<figcaption itemprop="caption description" class="title">pubg、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">400x300px</span>
+<span class="right">9.62KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/936/86/png-transparent-google-ads-hd-logo.png">
+<meta itemprop="keywords" content="google広告, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aztvk" target="_blank">
+<img itemprop="thumbnail" alt="Google広告、HD、ロゴ, png thumbnail" title="Google広告、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/936/86/png-transparent-google-ads-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="270">
+</a>
+<figcaption itemprop="caption description" class="title">Google広告、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">400x300px</span>
+<span class="right">11.91KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/614/800/png-transparent-fiverr-hd-logo.png">
+<meta itemprop="keywords" content="fiverr, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azczy" target="_blank">
+<img itemprop="thumbnail" alt="Fiverr、HD、ロゴ, png thumbnail" title="Fiverr、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/614/800/png-transparent-fiverr-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">Fiverr、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2500px</span>
+<span class="right">119.26KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/991/515/png-transparent-skol-hd-logo.png">
+<meta itemprop="keywords" content="skol, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azlzw" target="_blank">
+<img itemprop="thumbnail" alt="Skol、HD、ロゴ, png thumbnail" title="Skol、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/991/515/png-transparent-skol-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">Skol、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x3000px</span>
+<span class="right">378.03KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/294/86/png-transparent-redbull-hd-logo.png">
+<meta itemprop="keywords" content="redbull, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aztnw" target="_blank">
+<img itemprop="thumbnail" alt="Redbull、HD、ロゴ, png thumbnail" title="Redbull、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/294/86/png-transparent-redbull-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="219">
+</a>
+<figcaption itemprop="caption description" class="title">Redbull、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x1520px</span>
+<span class="right">198.72KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/457/158/png-transparent-off-white-hd-logo.png">
+<meta itemprop="keywords" content="オフホワイト, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aztsi" target="_blank">
+<img itemprop="thumbnail" alt="オフホワイト、HD、ロゴ, png thumbnail" title="オフホワイト、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/457/158/png-transparent-off-white-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">オフホワイト、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2500px</span>
+<span class="right">88.1KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/239/455/png-transparent-binance-hd-logo.png">
+<meta itemprop="keywords" content="binance, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azcos" target="_blank">
+<img itemprop="thumbnail" alt="Binance、HD、ロゴ, png thumbnail" title="Binance、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/239/455/png-transparent-binance-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="270">
+</a>
+<figcaption itemprop="caption description" class="title">Binance、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">400x300px</span>
+<span class="right">6.08KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/480/555/png-transparent-tottenham-hotspur-hd-logo.png">
+<meta itemprop="keywords" content="トッテナムホットスパー, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azcsm" target="_blank">
+<img itemprop="thumbnail" alt="トッテナムホットスパー、HD、ロゴ, png thumbnail" title="トッテナムホットスパー、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/480/555/png-transparent-tottenham-hotspur-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="745">
+</a>
+<figcaption itemprop="caption description" class="title">トッテナムホットスパー、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">1209x2500px</span>
+<span class="right">219.71KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/323/215/png-transparent-daihatsu-hd-logo.png">
+<meta itemprop="keywords" content="ダイハツ, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-anbep" target="_blank">
+<img itemprop="thumbnail" alt="ダイハツ、HD、ロゴ, png thumbnail" title="ダイハツ、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/323/215/png-transparent-daihatsu-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="295">
+</a>
+<figcaption itemprop="caption description" class="title">ダイハツ、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x2457px</span>
+<span class="right">234.26KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/180/462/png-transparent-hogwarts-hd-logo.png">
+<meta itemprop="keywords" content="ホグワーツ, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aztuk" target="_blank">
+<img itemprop="thumbnail" alt="ホグワーツ、HD、ロゴ, png thumbnail" title="ホグワーツ、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/180/462/png-transparent-hogwarts-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">ホグワーツ、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2500px</span>
+<span class="right">532.87KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/447/956/png-transparent-university-of-amikom-yogyakarta-yogyakarta-state-university-logo-id-miscellaneous-purple-text.png">
+<meta itemprop="keywords" content="エリア, 学士号, ブランド, サークル, 12月29日, id, 情報システム, ライン, ロゴ, マゼンタ, マハシスワ, 雑多な, 組織, pendhidhikan dhuwur, 紫の, 研究, シンボル, テキスト, 大学, アミコムジョグジャカルタ大学, 黄, ジョグジャカルタ, ジョグジャカルタ州立大学, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-zehjt" target="_blank">
+<img itemprop="thumbnail" alt="アミコム大学ジョグジャカルタジョグジャカルタ州立大学ロゴ、ID, エリア, 学士号, ブランド png thumbnail" title="アミコム大学ジョグジャカルタジョグジャカルタ州立大学ロゴ、ID, エリア, 学士号, ブランド png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/447/956/png-transparent-university-of-amikom-yogyakarta-yogyakarta-state-university-logo-id-miscellaneous-purple-text-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">アミコム大学ジョグジャカルタジョグジャカルタ州立大学ロゴ、ID, エリア, 学士号, ブランド png</figcaption>
+</figure>
+<footer>
+<span class="left">650x649px</span>
+<span class="right">78.82KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/571/735/png-transparent-bridgestone-hd-logo.png">
+<meta itemprop="keywords" content="ブリヂストン, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aztae" target="_blank">
+<img itemprop="thumbnail" alt="ブリヂストン、HD、ロゴ, png thumbnail" title="ブリヂストン、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/571/735/png-transparent-bridgestone-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">ブリヂストン、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2500px</span>
+<span class="right">73.23KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/721/181/png-transparent-addidas-hd-logo.png">
+<meta itemprop="keywords" content="アディダス, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ahyno" target="_blank">
+<img itemprop="thumbnail" alt="アディダス、HD、ロゴ, png thumbnail" title="アディダス、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/721/181/png-transparent-addidas-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="196">
+</a>
+<figcaption itemprop="caption description" class="title">アディダス、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x1628px</span>
+<span class="right">212.23KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/743/718/png-transparent-ac-milan-hd-logo.png">
+<meta itemprop="keywords" content="acミラン, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azfbl" target="_blank">
+<img itemprop="thumbnail" alt="ACミラン、HD、ロゴ, png thumbnail" title="ACミラン、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/743/718/png-transparent-ac-milan-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="583">
+</a>
+<figcaption itemprop="caption description" class="title">ACミラン、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x4851px</span>
+<span class="right">788.13KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo.png">
+<meta itemprop="keywords" content="visual studio code, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aztoa" target="_blank">
+<img itemprop="thumbnail" alt="Visual Studio Code、HD、ロゴ, png thumbnail" title="Visual Studio Code、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="354">
+</a>
+<figcaption itemprop="caption description" class="title">Visual Studio Code、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2455px</span>
+<span class="right">122.95KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/110/280/png-transparent-paytm-standalone-hd-logo.png">
+<meta itemprop="keywords" content="paytm（スタンドアロン）, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ahbzc" target="_blank">
+<img itemprop="thumbnail" alt="Paytm（スタンドアロン）、HD、ロゴ, png thumbnail" title="Paytm（スタンドアロン）、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/110/280/png-transparent-paytm-standalone-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="114">
+</a>
+<figcaption itemprop="caption description" class="title">Paytm（スタンドアロン）、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x942px</span>
+<span class="right">100.62KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/1017/137/png-transparent-inter-milan-2021-hd-logo.png">
+<meta itemprop="keywords" content="インテルミラノ2021, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-aniym" target="_blank">
+<img itemprop="thumbnail" alt="インテルミラノ2021、HD、ロゴ, png thumbnail" title="インテルミラノ2021、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/1017/137/png-transparent-inter-milan-2021-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="321">
+</a>
+<figcaption itemprop="caption description" class="title">インテルミラノ2021、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x2670px</span>
+<span class="right">353.81KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/750/511/png-transparent-microsoft-edge-hd-logo.png">
+<meta itemprop="keywords" content="microsoft edge, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-azeij" target="_blank">
+<img itemprop="thumbnail" alt="Microsoft Edge、HD、ロゴ, png thumbnail" title="Microsoft Edge、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/750/511/png-transparent-microsoft-edge-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="360">
+</a>
+<figcaption itemprop="caption description" class="title">Microsoft Edge、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">2500x2500px</span>
+<span class="right">560.48KB</span>
+</footer>
+</li>
+<li itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="grid">
+<meta itemprop="fileFormat" content="image/png">
+<link itemprop="contentUrl" href="https://w7.pngwing.com/pngs/395/250/png-transparent-lazada-hd-logo.png">
+<meta itemprop="keywords" content="lazada, hd, png, トランスペアレント, クリップ・アート, 無料ダウンロード, ステッカーpng">
+<figure>
+<a itemprop="url" href="https://www.pngwing.com/ja/free-png-ahntv" target="_blank">
+<img itemprop="thumbnail" alt="Lazada、HD、ロゴ, png thumbnail" title="Lazada、HD、ロゴ, png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://w7.pngwing.com/pngs/395/250/png-transparent-lazada-hd-logo-thumbnail.png" class="lazy lst_img" width="350" height="95">
+</a>
+<figcaption itemprop="caption description" class="title">Lazada、HD、ロゴ, png</figcaption>
+</figure>
+<footer>
+<span class="left">3000x786px</span>
+<span class="right">181.32KB</span>
+</footer>
+</li>
+</ul>
+<span class="clear"></span>
+<button id="loader" value="1" data-mod="view" data-url="https://www.pngwing.com/ja/related-axmxp">もっと読み込む</button>
+</section>
+</main>
+<footer id="ft">
+<section id="footer" class="resp">
+<ul>
+<li>
+<a href="https://www.pngwing.com/terms-of-use">Terms Of Use</a>
+</li>
+<li>
+<a href="https://www.pngwing.com/privacy-policy">Privacy Policy</a>
+</li>
+<li>
+<a href="https://www.pngwing.com/submit">PNGをアップロード</a>
+</li>
+<li>
+<a href="/cdn-cgi/l/email-protection#5b2b353c2c32353c753834361b3c363a323775383436" class="mailtoui">Contact Us</a>
+</li>
+</ul>
+</section>
+<span role="button" title="scroll to top" id="scrolltop"></span>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var site='https://www.pngwing.com';</script>
+<script src="https://assets.pngwing.com/public/pw.js?202211"></script>
+</footer>
+</body>
+</html>

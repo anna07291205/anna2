@@ -1,1 +1,1 @@
-function imgchange1(){document.getElementById('iogo').src='./image/bulbon.png';}
+function imgchange1(){document.getElementById('iogo'). src='./image/bulbon.png';}

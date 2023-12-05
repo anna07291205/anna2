@@ -1,5 +1,5 @@
 function mes(){alert("３秒経ちました！");}
-function hyouji13(){
+function hyoji13(){
   //表示する文字
 var str="一文字ずつ表示します。";
   //テキストボックスの文字数
@@ -11,4 +11,4 @@ if( cnt < 11 ){
   //すべて表示されたら、空文字に戻す
   document.timer13.moji13.value="";}
   //setTimeout()を含む関数を呼び出す
-setTimeout("hyouji13()",1000);}
+setTimeout("hyoji13()",1000);}

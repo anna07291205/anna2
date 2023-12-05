@@ -1,5 +1,4 @@
 function mes(){alert("３秒経ちました！");}
-
 function hyouji13(){
   //表示する文字
 var str="一文字ずつ表示します。";

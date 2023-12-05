@@ -11,4 +11,4 @@ if( cnt < 11 ){
   //すべて表示されたら、空文字に戻す
   document.timer13.moji13.value="";}
   //setTimeout()を含む関数を呼び出す
-setTimeout("hyouji13()
+setTimeout("hyouji13()",1000);}

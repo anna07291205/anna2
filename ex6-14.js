@@ -1,3 +1,3 @@
 function imgchange3(){document.getElementById('sogo'). src='./image/bulbon.png';}
-if(count==img.length)count=0;
-setTimeout("imgchange3()",3000);
+ document.timer13.moji13.value="";}
+setTimeout("imgchange3()",3000);}
